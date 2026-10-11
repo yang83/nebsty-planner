@@ -33,7 +33,7 @@ Everything is saved as **Markdown files on your Mac**.
 - **Sync with Google Tasks & Google Calendar** — connect your Google account in Settings; works alongside Apple sync, with task lists and calendars mapped to tags the same way.
 - **Subscribed calendars (ICS)** — show holidays, school or team calendars in the month, week and day views.
 - **Your files stay yours** — every page is a Markdown file in your data folder. Put it in iCloud Drive or Nextcloud to use it on several Macs, or open it in other apps such as Obsidian. Backups and a year-end cleanup are built in.
-- **Choose your font** — NanumSquareRound (default), the system font, a serif, or any installed font.
+- **Choose your font** — the system font by default, or type the name of any font installed on your computer.
 
 ![Mission & long-term goals](assets/screenshot-mission.png)
 
@@ -68,4 +68,3 @@ Everything is saved as **Markdown files on your Mac**.
 ## License
 
 © 2026 Heesu Yang. All rights reserved. This repository contains only release files and documentation.
-Font: NanumSquareRound © NAVER Corporation — [SIL Open Font License 1.1](https://openfontlicense.org).

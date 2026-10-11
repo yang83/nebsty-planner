@@ -33,7 +33,7 @@
 - **Google Tasks · Google 캘린더와 동기화** — 설정에서 Google 계정을 연결하면 Apple 동기화와 함께 쓸 수 있고, 목록 · 캘린더가 같은 방식으로 태그에 이어집니다.
 - **구독 캘린더 (ICS)** — 공휴일 · 학교 · 팀 캘린더를 월간 · 주간 · 일간에 함께 표시.
 - **내 파일은 내 것** — 모든 내용이 데이터 폴더의 Markdown 파일. iCloud · Nextcloud 폴더에 두면 여러 Mac 에서 같이 쓰고, Obsidian 같은 다른 앱으로도 열 수 있습니다. 백업 · 연말 정리 기능 포함.
-- **글꼴 선택** — 나눔스퀘어라운드(기본) · 시스템 글꼴 · 명조 · 설치된 글꼴.
+- **글꼴 선택** — 기본은 시스템 글꼴, 직접 입력으로 이 컴퓨터에 설치된 어떤 글꼴이든.
 
 ## 설치
 
@@ -67,5 +67,4 @@
 ## 라이선스
 
 © 2026 Heesu Yang. All rights reserved. 이 저장소에는 배포 파일과 안내 문서만 있습니다.
-글꼴: 나눔스퀘어라운드 © NAVER Corporation — [SIL Open Font License 1.1](https://openfontlicense.org).
 
