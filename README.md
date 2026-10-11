@@ -29,6 +29,7 @@ Everything is saved as **Markdown files on your Mac**.
 - **Habits & recurring events** — daily, weekdays, chosen days or monthly. Check off habits in the week view.
 - **Memos & project documents** — write in Markdown; drop in images and resize them.
 - **Sync with Apple Reminders & Calendar** — edit today's to-dos and your events on either side. Reminder lists and calendars map to tags such as `#personal` or `#work`.
+- **Dated to-dos in memos & projects** — write `- [ ] task #tag 📅 2026-10-12` in any memo or project document and it shows up on that day, week and month (and syncs to Reminders / Google Tasks with that due date). Click it to jump to the memo; check it off and the memo gets `✅`.
 - **Sync with Google Tasks & Google Calendar** — connect your Google account in Settings; works alongside Apple sync, with task lists and calendars mapped to tags the same way.
 - **Subscribed calendars (ICS)** — show holidays, school or team calendars in the month, week and day views.
 - **Your files stay yours** — every page is a Markdown file in your data folder. Put it in iCloud Drive or Nextcloud to use it on several Macs, or open it in other apps such as Obsidian. Backups and a year-end cleanup are built in.
