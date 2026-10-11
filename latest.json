@@ -1,8 +1,8 @@
 {
   "mac": {
-    "version": "0.5.0",
-    "url": "https://github.com/yang83/nebsty-planner/releases/download/v0.5.0-beta/Nebsty-Planner-0.5.0-beta.dmg",
-    "notes": "The first beta.\n\n- Top-down planner: mission · year · month · week · day · memos · projects\n- Apple Reminders & Calendar sync (lists and calendars ↔ tags)\n- Google Tasks & Google Calendar sync\n- Subscribed calendars (ICS)\n- Drop in images and resize them\n- Font picker · English / 한국어",
-    "notes_ko": "첫 베타입니다.\n\n- 탑다운 플래너: 사명 · 연간 · 월간 · 주간 · 일간 · 메모 · 프로젝트\n- Apple 미리 알림 · 캘린더 동기화 (목록 · 캘린더 ↔ 태그)\n- Google Tasks · Google 캘린더 동기화\n- 구독 캘린더 (ICS)\n- 이미지 끌어다 놓기 · 크기 조절\n- 글꼴 선택 · 한국어 / English"
+    "version": "0.6.1",
+    "url": "https://github.com/yang83/nebsty-planner/releases/download/v0.6.1-beta/Nebsty-Planner-0.6.1-beta.dmg",
+    "notes": "- Google Tasks & Google Calendar sync\n- Dated to-dos in memos & projects (📅) show up on that day and sync to Reminders / Google Tasks\n- Type @10-12 or @tomorrow on a to-do line for a 📅 date\n- System font by default; any installed font via Custom",
+    "notes_ko": "- Google Tasks · Google 캘린더 동기화\n- 메모 · 프로젝트의 📅 할 일이 그날에 보이고 미리 알림 · Google Tasks 와 동기화\n- 할 일 줄에 @10-12 · @내일 → 📅 날짜\n- 글꼴은 시스템 글꼴이 기본, 설치된 글꼴은 직접 입력"
   }
 }
