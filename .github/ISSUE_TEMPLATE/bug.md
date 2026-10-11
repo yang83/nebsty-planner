@@ -1,18 +1,20 @@
 ---
-name: 버그 · 불편한 점
-about: 잘 안 되는 것을 알려 주세요
+name: Bug or rough edge · 버그 · 불편한 점
+about: Tell us what isn't working · 잘 안 되는 것을 알려 주세요
 labels: bug
 ---
 
-**무엇을 했을 때** (예: 주간 화면에서 일정을 끌었을 때)
+**What did you do?** (e.g. dragged an event in the week view)
 
 
-**어떻게 됐는지 / 어떻게 되길 기대했는지**
+**What happened, and what did you expect?**
 
 
-**스크린샷** (있으면 끌어다 놓기)
+**Screenshot** (drag it here, if you have one)
 
 
-- 앱 버전 (메뉴 Nebsty Planner › 정보):
-- macOS 버전:
-- 미리 알림 · 캘린더 동기화 사용: 예 / 아니오
+- App version (menu Nebsty Planner › About):
+- macOS version:
+- Using Reminders / Calendar sync: yes / no
+
+<!-- 한국어로 적어 주셔도 됩니다. -->

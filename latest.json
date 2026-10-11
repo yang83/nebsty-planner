@@ -2,6 +2,7 @@
   "mac": {
     "version": "0.5.0",
     "url": "https://github.com/yang83/nebsty-planner/releases/download/v0.5.0-beta/Nebsty-Planner-0.5.0-beta.dmg",
-    "notes": "첫 베타입니다.\n\n- 탑다운 플래너: 사명 · 연간 · 월간 · 주간 · 일간 · 메모 · 프로젝트\n- Apple 미리 알림 · 캘린더 동기화 (목록 · 캘린더 ↔ 태그)\n- 구독 캘린더 (ICS)\n- 이미지 끌어다 놓기 · 크기 조절\n- 글꼴 선택 · 한국어 / English"
+    "notes": "The first beta.\n\n- Top-down planner: mission · year · month · week · day · memos · projects\n- Apple Reminders & Calendar sync (lists and calendars ↔ tags)\n- Subscribed calendars (ICS)\n- Drop in images and resize them\n- Font picker · English / 한국어",
+    "notes_ko": "첫 베타입니다.\n\n- 탑다운 플래너: 사명 · 연간 · 월간 · 주간 · 일간 · 메모 · 프로젝트\n- Apple 미리 알림 · 캘린더 동기화 (목록 · 캘린더 ↔ 태그)\n- 구독 캘린더 (ICS)\n- 이미지 끌어다 놓기 · 크기 조절\n- 글꼴 선택 · 한국어 / English"
   }
 }
