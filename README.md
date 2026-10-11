@@ -10,7 +10,7 @@ Everything is saved as **Markdown files on your Mac**.
 
 ![Week view](assets/screenshot-week.png)
 
-[⬇︎ Download the beta (macOS)](https://github.com/yang83/nebsty-planner/releases) · [Install](#install) · [Privacy policy](privacy.md) · [Send feedback](https://github.com/yang83/nebsty-planner/issues)
+[⬇︎ Download the beta (macOS)](https://github.com/yang83/nebsty-planner/releases) · [Install](#install) · [Privacy policy](privacy.md) · [Terms](terms.md) · [Send feedback](https://github.com/yang83/nebsty-planner/issues)
 
 ---
 

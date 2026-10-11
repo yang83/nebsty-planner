@@ -10,7 +10,7 @@
 
 ![주간 화면](../assets/ko/screenshot-week.png)
 
-[⬇︎ 베타 받기 (macOS)](https://github.com/yang83/nebsty-planner/releases) · [설치 방법](#설치) · [개인정보 처리방침](privacy.md) · [의견 보내기](https://github.com/yang83/nebsty-planner/issues)
+[⬇︎ 베타 받기 (macOS)](https://github.com/yang83/nebsty-planner/releases) · [설치 방법](#설치) · [개인정보 처리방침](privacy.md) · [서비스 약관](terms.md) · [의견 보내기](https://github.com/yang83/nebsty-planner/issues)
 
 ---
 
