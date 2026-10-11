@@ -29,6 +29,7 @@ Everything is saved as **Markdown files on your Mac**.
 - **Habits & recurring events** — daily, weekdays, chosen days or monthly. Check off habits in the week view.
 - **Memos & project documents** — write in Markdown; drop in images and resize them.
 - **Sync with Apple Reminders & Calendar** — edit today's to-dos and your events on either side. Reminder lists and calendars map to tags such as `#personal` or `#work`.
+- **Sync with Google Tasks & Google Calendar** — connect your Google account in Settings; works alongside Apple sync, with task lists and calendars mapped to tags the same way.
 - **Subscribed calendars (ICS)** — show holidays, school or team calendars in the month, week and day views.
 - **Your files stay yours** — every page is a Markdown file in your data folder. Put it in iCloud Drive or Nextcloud to use it on several Macs, or open it in other apps such as Obsidian. Backups and a year-end cleanup are built in.
 - **Choose your font** — NanumSquareRound (default), the system font, a serif, or any installed font.
@@ -42,7 +43,7 @@ Everything is saved as **Markdown files on your Mac**.
 1. Download `Nebsty-Planner-<version>-beta.dmg` from [Releases](https://github.com/yang83/nebsty-planner/releases).
 2. Open the DMG and drag **Nebsty Planner** into **Applications**.
 3. The beta is not yet notarized by Apple. If macOS says the developer cannot be verified, open **System Settings › Privacy & Security**, scroll down and click **Open Anyway**. You only need to do this once.
-4. To sync with Reminders and Calendar, turn it on in **⚙ Settings › External sync** and allow access when asked. If you don't use sync, the app never asks.
+4. To sync with Reminders and Calendar, turn it on in **⚙ Settings › External sync** and allow access when asked. If you don't use sync, the app never asks. For Google, click **Connect Google account…** there and sign in in your browser.
 
 **Where your data lives:** `~/Documents/Nebsty Planner` by default. You can move it to iCloud Drive, Nextcloud or any folder in ⚙ Settings.
 
@@ -55,7 +56,7 @@ Everything is saved as **Markdown files on your Mac**.
 
 ## FAQ
 
-**Does it need the internet?** No. The planner runs entirely on your Mac. It goes online only to read subscribed calendars and to check for updates.
+**Does it need the internet?** No. The planner runs entirely on your Mac. It goes online only to read subscribed calendars, to check for updates, and — if you connect it — to sync with Google.
 
 **Where does my data go?** Nowhere. No accounts, no servers, no analytics. See the [privacy policy](privacy.md).
 
