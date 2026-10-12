@@ -2,13 +2,14 @@
 
 **English** · [한국어](ko/privacy.md)
 
-Effective: October 11, 2026
+Effective: October 12, 2026
 
 Nebsty Planner ("the app") **does not collect personal data.** There are no accounts, servers, ads or analytics.
 
 ## 1. What the app stores, and where
 - What you write in the planner (tasks, events, memos, project documents, images) is saved as Markdown and image files in **the data folder you choose**. The default is `~/Documents/Nebsty Planner`.
-- App settings (data folder location, sync settings, subscribed calendar addresses, the last launch date and so on) are saved in `~/Library/Application Support/Nebsty Planner/`.
+- App settings (data folder location, sync settings, subscribed calendar addresses and so on) are saved in the app's own settings folder — on the Mac App Store version, inside the app's sandbox container (`~/Library/Containers/me.yspace.nebsty-planner/`).
+- The Mac App Store version can open only the data folder you pick. It remembers that choice with a macOS security-scoped bookmark stored in its settings.
 - These files exist only on your computer, and the app never sends them anywhere. If you put your data folder in a synced folder such as iCloud Drive or Nextcloud, that service syncs it under its own policy.
 
 ## 2. Reminders and Calendar (optional)
@@ -25,15 +26,18 @@ Nebsty Planner ("the app") **does not collect personal data.** There are no acco
 - To stop access, click **Disconnect** in the app (this also revokes the token at Google), or remove Nebsty Planner at [myaccount.google.com/permissions](https://myaccount.google.com/permissions).
 
 ## 4. Internet use
-Apart from Google sync (section 3), which you turn on yourself, the app goes online in only two cases. Neither sends your planner content or any personal data.
+Apart from Google sync (section 3), which you turn on yourself, the app goes online only in the cases below. None of them sends your planner content or any personal data.
 - **Subscribed calendars (ICS):** it downloads the calendar files from the addresses you enter.
-- **Update check:** once a day (or when you ask), it reads a public file in this repository (`latest.json`) to see whether a new version is out. The request carries nothing beyond the app version. Like any web server, GitHub may keep access logs such as IP addresses — see the [GitHub General Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
+- **Update check (Windows version only):** the Mac App Store version is updated by the App Store and does not check for updates itself. The Windows version, once a day (or when you ask), reads a public file in this repository (`latest.json`) to see whether a new version is out. The request carries nothing beyond the app version. Like any web server, GitHub may keep access logs such as IP addresses — see the [GitHub General Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
 
-## 5. Sharing or selling data
+## 5. In-app purchase (Nebsty Pro)
+Nebsty Pro is sold through the App Store. Payment is handled entirely by Apple; the app never sees your payment details or Apple ID. It only asks the App Store, on your Mac, whether Nebsty Pro has been purchased.
+
+## 6. Sharing or selling data
 None.
 
-## 6. Contact
+## 7. Contact
 Please get in touch through [GitHub Issues](https://github.com/yang83/nebsty-planner/issues).
 
-## 7. Changes
+## 8. Changes
 If this policy changes, this page will show the change with a new effective date.
