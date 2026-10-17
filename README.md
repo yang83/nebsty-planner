@@ -4,13 +4,13 @@
 A Franklin-style top-down planner for macOS. Plan from mission → long-term goals → year → month → week → day, turning pages like an open notebook.
 Everything is saved as **Markdown files on your Mac**.
 
-> 🧪 **Now in beta.** Each beta build works for about 30 days. When it expires, everything you wrote stays where it is.
+> 🧪 **Now in beta on TestFlight.** Join the beta with Apple's TestFlight app. When a build expires, everything you wrote stays where it is.
 
 **English** · [한국어](ko/)
 
 ![Week view](assets/screenshot-week.png)
 
-[⬇︎ Download the beta (macOS)](https://github.com/yang83/nebsty-planner/releases) · [Install](#install) · [Privacy policy](privacy.md) · [Terms](terms.md) · [Send feedback](https://github.com/yang83/nebsty-planner/issues)
+[⬇︎ Join the beta on TestFlight (macOS)](https://testflight.apple.com/join/UVgxex6p) · [Install](#install) · [Privacy policy](privacy.md) · [Terms](terms.md) · [Send feedback](https://github.com/yang83/nebsty-planner/issues)
 
 ---
 
@@ -41,18 +41,19 @@ Everything is saved as **Markdown files on your Mac**.
 
 **Requires:** macOS 13 (Ventura) or later · Apple Silicon or Intel
 
-1. Download `Nebsty-Planner-<version>-beta.dmg` from [Releases](https://github.com/yang83/nebsty-planner/releases).
-2. Open the DMG and drag **Nebsty Planner** into **Applications**.
-3. The beta is not yet notarized by Apple. If macOS says the developer cannot be verified, open **System Settings › Privacy & Security**, scroll down and click **Open Anyway**. You only need to do this once.
-4. To sync with Reminders and Calendar, turn it on in **⚙ Settings › External sync** and allow access when asked. If you don't use sync, the app never asks. For Google, click **Connect Google account…** there and sign in in your browser.
+1. Install **TestFlight** from the [Mac App Store](https://apps.apple.com/app/testflight/id899247664) (free).
+2. Open the beta link on your Mac: **[https://testflight.apple.com/join/UVgxex6p](https://testflight.apple.com/join/UVgxex6p)**
+3. Click **Accept** and then **Install** in TestFlight. Nebsty Planner appears in **Applications**.
+4. On first launch, choose the folder for your planner data (`~/Documents/Nebsty Planner` is suggested).
+5. To sync with Reminders and Calendar, turn it on in **⚙ Settings › External sync** and allow access when asked. If you don't use sync, the app never asks. For Google, click **Connect Google account…** there and sign in in your browser.
 
 **Where your data lives:** `~/Documents/Nebsty Planner` by default. You can move it to iCloud Drive, Nextcloud or any folder in ⚙ Settings.
 
 ## About the beta
 
-- Each beta build has a **time limit of about 30 days**. From 7 days before it ends, the app shows how many days are left; after that it asks you to download the new build.
+- The beta is distributed through **TestFlight**. TestFlight tells you when a new build is out and installs it for you (you can turn on automatic updates there).
+- Each TestFlight build works for **up to 90 days**. Before then a newer build usually replaces it.
 - **Your data is never affected.** Install the new build and carry on. Even in between, your Markdown files open in any app.
-- The app tells you when a new build is out (menu **Nebsty Planner › Check for Updates…** or ⚙ Settings › About).
 - Please report bugs, rough edges and wishes in [Issues](https://github.com/yang83/nebsty-planner/issues). A screenshot and your macOS version help a lot.
 
 ## FAQ

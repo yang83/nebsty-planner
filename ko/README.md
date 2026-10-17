@@ -4,13 +4,13 @@
 프랭클린 플래너 방식의 탑다운 플래너 — 사명 → 장기 목표 → 연간 → 월간 → 주간 → 일간을 펼친 노트처럼 넘겨 가며 계획합니다.
 모든 내용은 내 Mac 의 **Markdown 파일**로 저장됩니다.
 
-> 🧪 **지금은 베타 테스트 중입니다.** 베타 버전은 받은 날부터 약 30일 동안 쓸 수 있고, 기간이 끝나도 쓴 내용은 그대로 남습니다.
+> 🧪 **지금은 TestFlight 로 베타 테스트 중입니다.** Apple 의 TestFlight 앱으로 참여할 수 있고, 빌드 기간이 끝나도 쓴 내용은 그대로 남습니다.
 
 [English](../) · **한국어**
 
 ![주간 화면](../assets/ko/screenshot-week.png)
 
-[⬇︎ 베타 받기 (macOS)](https://github.com/yang83/nebsty-planner/releases) · [설치 방법](#설치) · [개인정보 처리방침](privacy.md) · [서비스 약관](terms.md) · [의견 보내기](https://github.com/yang83/nebsty-planner/issues)
+[⬇︎ TestFlight 로 베타 참여 (macOS)](https://testflight.apple.com/join/UVgxex6p) · [설치 방법](#설치) · [개인정보 처리방침](privacy.md) · [서비스 약관](terms.md) · [의견 보내기](https://github.com/yang83/nebsty-planner/issues)
 
 ---
 
@@ -39,19 +39,19 @@
 
 **필요한 것:** macOS 13 (Ventura) 이상 · Apple Silicon / Intel 모두 지원
 
-1. [Releases](https://github.com/yang83/nebsty-planner/releases) 에서 `Nebsty-Planner-<버전>-beta.dmg` 를 받습니다.
-2. DMG 를 열고 **Nebsty Planner** 를 **Applications** 폴더로 끌어다 놓습니다.
-3. 처음 열 때 *"확인되지 않은 개발자"* 경고가 뜨면 — 베타는 아직 Apple 공증을 받지 않았습니다 —
-   **시스템 설정 › 개인정보 보호 및 보안** 맨 아래의 **"그래도 열기"** 를 누르세요. 한 번만 하면 됩니다.
-4. 미리 알림 · 캘린더 동기화를 쓰려면 **⚙ 설정 › 외부 동기화**에서 켜고, 묻는 권한을 허용합니다 (쓰지 않으면 권한을 묻지 않습니다). Google 은 같은 곳에서 **Google 계정 연결…** 을 누르고 브라우저에서 로그인합니다.
+1. [Mac App Store](https://apps.apple.com/kr/app/testflight/id899247664) 에서 **TestFlight** 앱을 설치합니다 (무료).
+2. Mac 에서 베타 링크를 엽니다: **[https://testflight.apple.com/join/UVgxex6p](https://testflight.apple.com/join/UVgxex6p)**
+3. TestFlight 에서 **수락** → **설치** 를 누르면 **응용 프로그램** 폴더에 Nebsty Planner 가 설치됩니다.
+4. 처음 실행하면 플래너 데이터를 둘 폴더를 고릅니다 (기본 추천: `~/Documents/Nebsty Planner`).
+5. 미리 알림 · 캘린더 동기화를 쓰려면 **⚙ 설정 › 외부 동기화**에서 켜고, 묻는 권한을 허용합니다 (쓰지 않으면 권한을 묻지 않습니다). Google 은 같은 곳에서 **Google 계정 연결…** 을 누르고 브라우저에서 로그인합니다.
 
 **데이터 위치:** 기본은 `~/Documents/Nebsty Planner`. ⚙ 설정에서 iCloud Drive · Nextcloud 같은 폴더로 바꿀 수 있습니다.
 
 ## 베타 테스트 안내
 
-- 베타 버전마다 **사용 기간(약 30일)** 이 있습니다. 끝나기 7일 전부터 화면 아래에 남은 날이 표시되고, 기간이 지나면 새 버전을 받으라는 안내가 나옵니다.
-- **기간이 끝나도 데이터는 그대로입니다.** 새 버전을 설치하면 이어서 쓰고, 그 사이에도 데이터 폴더의 Markdown 파일은 어떤 앱으로든 열 수 있습니다.
-- 새 버전이 나오면 앱이 알려 줍니다 (메뉴 **Nebsty Planner › 업데이트 확인…** 또는 ⚙ 설정 › 정보).
+- 베타는 **TestFlight** 로 배포합니다. 새 빌드가 나오면 TestFlight 가 알려 주고 설치해 줍니다 (TestFlight 에서 자동 업데이트를 켤 수 있습니다).
+- TestFlight 빌드는 **최대 90일** 동안 쓸 수 있고, 보통 그 전에 새 빌드로 바뀝니다.
+- **기간이 끝나도 데이터는 그대로입니다.** 새 빌드를 설치하면 이어서 쓰고, 그 사이에도 데이터 폴더의 Markdown 파일은 어떤 앱으로든 열 수 있습니다.
 - 버그 · 불편한 점 · 바라는 기능은 [Issues](https://github.com/yang83/nebsty-planner/issues) 에 남겨 주세요. 스크린샷과 macOS 버전을 함께 적어 주시면 큰 도움이 됩니다.
 
 ## 자주 묻는 질문
