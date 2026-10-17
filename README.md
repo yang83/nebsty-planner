@@ -58,13 +58,13 @@ Everything is saved as **Markdown files on your Mac**.
 
 ## FAQ
 
-**Does it need the internet?** No. The planner runs entirely on your Mac. It goes online only to read subscribed calendars, to check for updates, and — if you connect it — to sync with Google.
+**Does it need the internet?** No. The planner runs entirely on your Mac. It goes online only to read subscribed calendars and — if you connect it — to sync with Google. Updates come through TestFlight / the App Store.
 
 **Where does my data go?** Nowhere. No accounts, no servers, no analytics. See the [privacy policy](privacy.md).
 
 **Is there a Windows version?** It's in the works.
 
-**What happens after the beta?** The full version will be sold on the Mac App Store.
+**What happens after the beta?** Nebsty Planner will be released **for free** on the Mac App Store. Your data folder carries over as it is.
 
 ## License
 
