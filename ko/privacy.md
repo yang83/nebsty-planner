@@ -2,7 +2,7 @@
 
 [English](../privacy.md) · **한국어**
 
-시행일: 2026년 10월 12일
+시행일: 2026년 10월 18일
 
 Nebsty Planner(이하 "앱")는 **개인정보를 수집하지 않습니다.** 계정 · 서버 · 광고 · 사용 통계(분석 도구)가 없습니다.
 
@@ -30,15 +30,12 @@ Nebsty Planner(이하 "앱")는 **개인정보를 수집하지 않습니다.** �
 - **구독 캘린더(ICS):** 사용자가 직접 넣은 캘린더 주소에서 일정 파일을 내려받습니다.
 - **업데이트 확인 (Windows 판만):** Mac App Store 판은 App Store 가 업데이트를 맡으므로 스스로 확인하지 않습니다. Windows 판은 하루 한 번(또는 사용자가 요청할 때) 이 저장소의 공개 파일(`latest.json`)을 읽어 새 버전이 있는지 확인합니다. 이 요청에는 앱 버전 외의 정보가 포함되지 않습니다. GitHub 는 일반적인 웹 서버처럼 접속 기록(IP 주소 등)을 남길 수 있습니다 — [GitHub 개인정보 처리방침](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
 
-## 5. 인앱 구매 (Nebsty Pro)
-Nebsty Pro 는 App Store 를 통해 판매됩니다. 결제는 전부 Apple 이 처리하며, 앱은 결제 정보나 Apple ID 를 볼 수 없습니다. 앱은 이 Mac 에서 App Store 에 Nebsty Pro 구매 여부만 확인합니다.
-
-## 6. 제3자 제공 · 판매
+## 5. 제3자 제공 · 판매
 없습니다.
 
-## 7. 문의
+## 6. 문의
 [GitHub Issues](https://github.com/yang83/nebsty-planner/issues) 로 문의해 주세요.
 
-## 8. 변경
+## 7. 변경
 이 방침이 바뀌면 이 페이지에 시행일과 함께 알립니다.
 

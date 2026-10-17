@@ -2,7 +2,7 @@
 
 **English** · [한국어](ko/privacy.md)
 
-Effective: October 12, 2026
+Effective: October 18, 2026
 
 Nebsty Planner ("the app") **does not collect personal data.** There are no accounts, servers, ads or analytics.
 
@@ -30,14 +30,11 @@ Apart from Google sync (section 3), which you turn on yourself, the app goes onl
 - **Subscribed calendars (ICS):** it downloads the calendar files from the addresses you enter.
 - **Update check (Windows version only):** the Mac App Store version is updated by the App Store and does not check for updates itself. The Windows version, once a day (or when you ask), reads a public file in this repository (`latest.json`) to see whether a new version is out. The request carries nothing beyond the app version. Like any web server, GitHub may keep access logs such as IP addresses — see the [GitHub General Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
 
-## 5. In-app purchase (Nebsty Pro)
-Nebsty Pro is sold through the App Store. Payment is handled entirely by Apple; the app never sees your payment details or Apple ID. It only asks the App Store, on your Mac, whether Nebsty Pro has been purchased.
-
-## 6. Sharing or selling data
+## 5. Sharing or selling data
 None.
 
-## 7. Contact
+## 6. Contact
 Please get in touch through [GitHub Issues](https://github.com/yang83/nebsty-planner/issues).
 
-## 8. Changes
+## 7. Changes
 If this policy changes, this page will show the change with a new effective date.
