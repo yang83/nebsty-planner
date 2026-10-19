@@ -1,8 +1,14 @@
 {
   "mac": {
-    "version": "0.6.1",
-    "url": "https://github.com/yang83/nebsty-planner/releases/download/v0.6.1-beta/Nebsty-Planner-0.6.1-beta.dmg",
-    "notes": "- Google Tasks & Google Calendar sync\n- Dated to-dos in memos & projects (📅) show up on that day and sync to Reminders / Google Tasks\n- Type @10-12 or @tomorrow on a to-do line for a 📅 date\n- System font by default; any installed font via Custom",
-    "notes_ko": "- Google Tasks · Google 캘린더 동기화\n- 메모 · 프로젝트의 📅 할 일이 그날에 보이고 미리 알림 · Google Tasks 와 동기화\n- 할 일 줄에 @10-12 · @내일 → 📅 날짜\n- 글꼴은 시스템 글꼴이 기본, 설치된 글꼴은 직접 입력"
+    "version": "0.8.0",
+    "url": "https://apps.apple.com/app/id(앱 번호)",
+    "notes": "Nebsty Planner is now on the Mac App Store. Install it from there to get future updates.",
+    "notes_ko": "Nebsty Planner가 Mac App Store에 나왔습니다. 앞으로는 App Store에서 설치하고 업데이트를 받아 주세요."
+  },
+  "windows": {
+    "version": "0.8.0",
+    "url": "https://github.com/yang83/nebsty-planner/releases/download/v0.8.0/Nebsty-Planner-0.8.0-Setup.exe",
+    "notes": "First Windows release.",
+    "notes_ko": "첫 Windows 판입니다."
   }
 }
