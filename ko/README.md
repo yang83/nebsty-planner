@@ -2,7 +2,7 @@
 
 **사명에서 오늘 할 일까지, 한 권의 노트처럼.**
 프랭클린 플래너 방식의 탑다운 플래너 — 사명 → 장기 목표 → 연간 → 월간 → 주간 → 일간을 펼친 노트처럼 넘겨 가며 계획합니다.
-모든 내용은 내 Mac 의 **Markdown 파일**로 저장됩니다.
+macOS 와 Windows 에서 쓸 수 있고, 모든 내용은 내 컴퓨터의 **Markdown 파일**로 저장됩니다.
 
 > 🧪 **지금은 TestFlight 로 베타 테스트 중입니다.** Apple 의 TestFlight 앱으로 참여할 수 있고, 빌드 기간이 끝나도 쓴 내용은 그대로 남습니다.
 
@@ -10,7 +10,7 @@
 
 ![주간 화면](../assets/ko/screenshot-week.png)
 
-[⬇︎ TestFlight 로 베타 참여 (macOS)](https://testflight.apple.com/join/UVgxex6p) · [설치 방법](#설치) · [개인정보 처리방침](privacy.md) · [서비스 약관](terms.md) · [의견 보내기](https://github.com/yang83/nebsty-planner/issues)
+[⬇︎ TestFlight 로 베타 참여 (macOS)](https://testflight.apple.com/join/UVgxex6p) · [⬇︎ Windows 판 받기](https://github.com/yang83/nebsty-planner/releases/download/v0.8.0/Nebsty-Planner-0.8.0-Setup.exe) · [설치 방법](#설치) · [개인정보 처리방침](privacy.md) · [서비스 약관](terms.md) · [의견 보내기](https://github.com/yang83/nebsty-planner/issues)
 
 ---
 
@@ -47,6 +47,16 @@
 
 **데이터 위치:** 기본은 `~/Documents/Nebsty Planner`. ⚙ 설정에서 iCloud Drive · Nextcloud 같은 폴더로 바꿀 수 있습니다.
 
+### Windows
+
+**필요한 것:** Windows 10 · 11 (64비트) · Microsoft Edge WebView2 런타임 (Windows 11 에는 기본 포함)
+
+1. **[Nebsty-Planner-0.8.0-Setup.exe](https://github.com/yang83/nebsty-planner/releases/download/v0.8.0/Nebsty-Planner-0.8.0-Setup.exe)** 를 받습니다 (모든 버전: [Releases](https://github.com/yang83/nebsty-planner/releases/latest)).
+2. 실행합니다. 관리자 권한은 필요 없습니다. 아직 코드 서명을 하지 않아 **"Windows의 PC 보호"** 창이 뜨면 **추가 정보 › 실행**을 누르세요.
+3. 데이터는 기본으로 `문서\Nebsty Planner` 에 저장됩니다. Nextcloud · OneDrive 폴더에 두면 Mac 과 같은 플래너를 함께 쓸 수 있습니다.
+4. Google Tasks · Google 캘린더 동기화는 Windows 에서도 됩니다. Apple 미리 알림 · 캘린더는 Mac 에서만 됩니다. 단축키는 ⌘ 대신 **Ctrl** 입니다.
+5. Windows 판은 하루 한 번 새 버전이 있는지 확인해 알려 줍니다.
+
 ## 베타 테스트 안내
 
 - 베타는 **TestFlight** 로 배포합니다. 새 빌드가 나오면 TestFlight 가 알려 주고 설치해 줍니다 (TestFlight 에서 자동 업데이트를 켤 수 있습니다).
@@ -56,11 +66,11 @@
 
 ## 자주 묻는 질문
 
-**인터넷이 필요한가요?** 아니요. 플래너는 내 Mac 안에서만 동작합니다. 인터넷은 구독 캘린더를 읽을 때와, 연결한 경우 Google 과 동기화할 때만 씁니다. 업데이트는 TestFlight · App Store 가 맡습니다.
+**인터넷이 필요한가요?** 아니요. 플래너는 내 컴퓨터 안에서만 동작합니다. 인터넷은 구독 캘린더를 읽을 때와, 연결한 경우 Google 과 동기화할 때만 씁니다. Mac 의 업데이트는 TestFlight · App Store 가 맡고, Windows 판은 하루 한 번 이 사이트에서 새 버전을 확인합니다.
 
 **내 데이터를 어디로 보내나요?** 보내지 않습니다. 계정도, 서버도, 사용 통계도 없습니다. 자세한 내용은 [개인정보 처리방침](privacy.md).
 
-**Windows 버전은?** 준비 중입니다.
+**Windows 버전은?** 있습니다 — [여기서 받기](https://github.com/yang83/nebsty-planner/releases/download/v0.8.0/Nebsty-Planner-0.8.0-Setup.exe). 무료이고 모든 기능이 열려 있으며, Mac 판과 같은 데이터 폴더를 그대로 읽습니다.
 
 **정식 버전은?** 베타가 끝나면 Mac App Store 에 **무료**로 출시합니다. 쓰던 데이터 폴더를 그대로 이어서 쓸 수 있습니다.
 

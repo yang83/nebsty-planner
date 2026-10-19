@@ -1,9 +1,9 @@
 {
   "mac": {
     "version": "0.8.0",
-    "url": "https://apps.apple.com/app/id(앱 번호)",
-    "notes": "Nebsty Planner is now on the Mac App Store. Install it from there to get future updates.",
-    "notes_ko": "Nebsty Planner가 Mac App Store에 나왔습니다. 앞으로는 App Store에서 설치하고 업데이트를 받아 주세요."
+    "url": "https://testflight.apple.com/join/UVgxex6p",
+    "notes": "The Mac beta has moved to TestFlight. Join with the link to get new builds automatically. Your data folder stays as it is.",
+    "notes_ko": "Mac 베타는 TestFlight 로 옮겼습니다. 링크로 참여하면 새 빌드를 자동으로 받습니다. 쓰던 데이터 폴더는 그대로 이어서 쓸 수 있습니다."
   },
   "windows": {
     "version": "0.8.0",
