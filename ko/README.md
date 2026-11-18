@@ -10,7 +10,7 @@ macOS 와 Windows 에서 쓸 수 있고, 모든 내용은 내 컴퓨터의 **Mar
 
 ![주간 화면](../assets/ko/screenshot-week.png)
 
-[⬇︎ TestFlight 로 베타 참여 (macOS)](https://testflight.apple.com/join/UVgxex6p) · [⬇︎ Windows 판 받기](https://github.com/yang83/nebsty-planner/releases/download/v0.8.0/Nebsty-Planner-0.8.0-Setup.exe) · [설치 방법](#설치) · [개인정보 처리방침](privacy.md) · [서비스 약관](terms.md) · [의견 보내기](https://github.com/yang83/nebsty-planner/issues)
+[⬇︎ TestFlight 로 베타 참여 (macOS)](https://testflight.apple.com/join/UVgxex6p) · [⬇︎ Windows 판 받기](https://github.com/yang83/nebsty-planner/releases/latest) · [설치 방법](#설치) · [개인정보 처리방침](privacy.md) · [서비스 약관](terms.md) · [의견 보내기](https://github.com/yang83/nebsty-planner/issues)
 
 ---
 
@@ -51,7 +51,7 @@ macOS 와 Windows 에서 쓸 수 있고, 모든 내용은 내 컴퓨터의 **Mar
 
 **필요한 것:** Windows 10 · 11 (64비트) · Microsoft Edge WebView2 런타임 (Windows 11 에는 기본 포함)
 
-1. **[Nebsty-Planner-0.8.0-Setup.exe](https://github.com/yang83/nebsty-planner/releases/download/v0.8.0/Nebsty-Planner-0.8.0-Setup.exe)** 를 받습니다 (모든 버전: [Releases](https://github.com/yang83/nebsty-planner/releases/latest)).
+1. [최신 릴리스](https://github.com/yang83/nebsty-planner/releases/latest) 에서 **`Nebsty-Planner-<버전>-Setup.exe`** 를 받습니다.
 2. 실행합니다. 관리자 권한은 필요 없습니다. 아직 코드 서명을 하지 않아 **"Windows의 PC 보호"** 창이 뜨면 **추가 정보 › 실행**을 누르세요.
 3. 데이터는 기본으로 `문서\Nebsty Planner` 에 저장됩니다. Nextcloud · OneDrive 폴더에 두면 Mac 과 같은 플래너를 함께 쓸 수 있습니다.
 4. Google Tasks · Google 캘린더 동기화는 Windows 에서도 됩니다. Apple 미리 알림 · 캘린더는 Mac 에서만 됩니다. 단축키는 ⌘ 대신 **Ctrl** 입니다.
@@ -70,7 +70,7 @@ macOS 와 Windows 에서 쓸 수 있고, 모든 내용은 내 컴퓨터의 **Mar
 
 **내 데이터를 어디로 보내나요?** 보내지 않습니다. 계정도, 서버도, 사용 통계도 없습니다. 자세한 내용은 [개인정보 처리방침](privacy.md).
 
-**Windows 버전은?** 있습니다 — [여기서 받기](https://github.com/yang83/nebsty-planner/releases/download/v0.8.0/Nebsty-Planner-0.8.0-Setup.exe). 무료이고 모든 기능이 열려 있으며, Mac 판과 같은 데이터 폴더를 그대로 읽습니다.
+**Windows 버전은?** 있습니다 — [여기서 받기](https://github.com/yang83/nebsty-planner/releases/latest). 무료이고 모든 기능이 열려 있으며, Mac 판과 같은 데이터 폴더를 그대로 읽습니다.
 
 **정식 버전은?** 베타가 끝나면 Mac App Store 에 **무료**로 출시합니다. 쓰던 데이터 폴더를 그대로 이어서 쓸 수 있습니다.
 

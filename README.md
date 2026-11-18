@@ -10,7 +10,7 @@ Everything is saved as **Markdown files on your computer**.
 
 ![Week view](assets/screenshot-week.png)
 
-[⬇︎ Join the beta on TestFlight (macOS)](https://testflight.apple.com/join/UVgxex6p) · [⬇︎ Download for Windows](https://github.com/yang83/nebsty-planner/releases/download/v0.8.0/Nebsty-Planner-0.8.0-Setup.exe) · [Install](#install) · [Privacy policy](privacy.md) · [Terms](terms.md) · [Send feedback](https://github.com/yang83/nebsty-planner/issues)
+[⬇︎ Join the beta on TestFlight (macOS)](https://testflight.apple.com/join/UVgxex6p) · [⬇︎ Download for Windows](https://github.com/yang83/nebsty-planner/releases/latest) · [Install](#install) · [Privacy policy](privacy.md) · [Terms](terms.md) · [Send feedback](https://github.com/yang83/nebsty-planner/issues)
 
 ---
 
@@ -53,7 +53,7 @@ Everything is saved as **Markdown files on your computer**.
 
 **Requires:** Windows 10 or 11 (64-bit) · Microsoft Edge WebView2 Runtime (built into Windows 11)
 
-1. Download **[Nebsty-Planner-0.8.0-Setup.exe](https://github.com/yang83/nebsty-planner/releases/download/v0.8.0/Nebsty-Planner-0.8.0-Setup.exe)** (all versions: [Releases](https://github.com/yang83/nebsty-planner/releases/latest)).
+1. Download **`Nebsty-Planner-<version>-Setup.exe`** from the [latest release](https://github.com/yang83/nebsty-planner/releases/latest).
 2. Run it. No administrator rights are needed. The installer isn't code-signed yet, so if Windows shows **"Windows protected your PC"**, click **More info › Run anyway**.
 3. Your data goes to `Documents\Nebsty Planner` by default. Put it in Nextcloud or OneDrive to share the same planner with a Mac.
 4. Google Tasks & Google Calendar sync work on Windows; Apple Reminders & Calendar are Mac-only. Shortcuts use **Ctrl** instead of ⌘.
@@ -72,7 +72,7 @@ Everything is saved as **Markdown files on your computer**.
 
 **Where does my data go?** Nowhere. No accounts, no servers, no analytics. See the [privacy policy](privacy.md).
 
-**Is there a Windows version?** Yes — [download it here](https://github.com/yang83/nebsty-planner/releases/download/v0.8.0/Nebsty-Planner-0.8.0-Setup.exe). It's free with every feature open, and it reads the same data folder as the Mac app.
+**Is there a Windows version?** Yes — [download it here](https://github.com/yang83/nebsty-planner/releases/latest). It's free with every feature open, and it reads the same data folder as the Mac app.
 
 **What happens after the beta?** Nebsty Planner will be released **for free** on the Mac App Store. Your data folder carries over as it is.
 
